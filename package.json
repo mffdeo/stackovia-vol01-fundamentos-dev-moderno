@@ -1,0 +1,17 @@
+{
+  "name": "stackovia-vol01-fundamentos-dev-moderno",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Stackovia Learning Series — Volume 01: Fundamentos do Dev Moderno.",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
