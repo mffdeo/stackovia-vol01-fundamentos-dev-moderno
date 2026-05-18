@@ -52,8 +52,7 @@ export default defineConfig({
             link: '/capitulos/cap03',
           },
           {
-            text: 'Cap. 04 — Git: versionar é diferente de salvar',
-            link: '/capitulos/cap04',
+            text: 'Cap. 04 — Git: versionar é diferente de salvar (em breve)',
           },
         ],
       },
@@ -76,7 +75,5 @@ export default defineConfig({
       copyright: 'Stackovia Learning Series',
     },
 
-    editLink: undefined,
-    lastUpdated: false,
   },
 })

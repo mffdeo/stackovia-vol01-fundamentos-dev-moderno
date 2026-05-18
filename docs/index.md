@@ -29,7 +29,7 @@ features:
     link: /capitulos/cap03
     linkText: "Ler capítulo →"
   - title: "Cap. 04 — Git: versionar é diferente de salvar"
-    details: "Em produção — disponível em breve."
+    details: "Em produção — disponível em breve. Sem link ativo ainda."
 ---
 
 ## Status dos capítulos
