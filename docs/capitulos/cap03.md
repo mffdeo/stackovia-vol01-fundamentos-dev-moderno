@@ -90,7 +90,7 @@ A tensão do capítulo é esta: **o navegador não enxerga "do lado"**. Ele enxe
 
 Mais do que isso: o navegador não enxerga "ontem". Ele enxerga **agora**. Se você moveu a pasta, a referência velha continua apontando para o lugar antigo, e o navegador volta um silencioso `404` no Network. A página continua "carregando bem"; só os assets é que somem.
 
-E há um agravante específico de portfólio: se você, no afobamento, copia para o seu README um caminho do tipo `C:\Users\<usuario>\Documentos\stackovia\imagens\logo.png` (Windows), ou `/home/<usuario>/Documentos/stackovia/imagens/logo.png` (Linux/macOS), você está **expondo a estrutura da sua máquina** dentro do projeto. Quem clonar não consegue abrir. Quem ler entende que você ainda não pensou em portabilidade. Pior dos mundos.
+E há um agravante específico de portfólio: se você, no afobamento, copia para o seu README um caminho do tipo `C:\Users\exemplo\Documentos\stackovia\imagens\logo.png` (Windows), ou `/home/exemplo/Documentos/stackovia/imagens/logo.png` (Linux/macOS), você está **expondo a estrutura da sua máquina** dentro do projeto. Quem clonar não consegue abrir. Quem ler entende que você ainda não pensou em portabilidade. Pior dos mundos.
 
 A próxima seção mostra os dois sintomas — o asset quebrado e o caminho absoluto no README — antes de explicar os conceitos.
 
@@ -105,11 +105,11 @@ Veja dois trechos de IntraStack: um problemático, um portátil.
 
 Para abrir o projeto, clique duas vezes no arquivo:
 
-C:\Users\<usuario>\Documentos\stackovia\intrastack\src\index.html
+C:\Users\exemplo\Documentos\stackovia\intrastack\src\index.html
 
 A logo está em:
 
-C:\Users\<usuario>\Documentos\stackovia\intrastack\assets\logo.png
+C:\Users\exemplo\Documentos\stackovia\intrastack\assets\logo.png
 ```
 
 **Trecho B — README com caminho relativo (correto):**
@@ -326,7 +326,7 @@ O Mestre Py revisa, neste capítulo, três coisas: a **estrutura** que você cri
 
 **O que ele reprovaria**
 
-- qualquer caminho absoluto local — `C:\Users\...`, `/home/<seu-nome>/...`, `/Users/<seu-nome>/...` — em qualquer arquivo do projeto;
+- qualquer caminho absoluto local — `C:\Users\...`, `/home/seu-nome/...`, `/Users/seu-nome/...` — em qualquer arquivo do projeto;
 - README citando empresa, cliente, colega ou produto real;
 - pasta `secrets/`, `private/`, `meus-projetos/`, ou qualquer pasta que misture trabalho real com este estudo;
 - arquivo `.env`, `.env.local`, `credentials.txt`, qualquer arquivo com aparência de segredo dentro do projeto;
@@ -421,7 +421,7 @@ Use esta lista para fechar o Capítulo 3. Cada item é "feito" ou "não feito".
 - [ ] Os arquivos `README.md`, `docs/runbook-local.md`, `src/index.html` e `assets/screenshots/.gitkeep` existem.
 - [ ] O `README.md` tem as cinco seções pedidas (o que é, estrutura de pastas, como abrir, limitações, rótulo de maturidade).
 - [ ] O `src/index.html` referencia a imagem por caminho relativo (`../assets/screenshots/logo-exemplo.png`), e você entende por que a imagem aparece quebrada.
-- [ ] Nenhum arquivo do projeto contém caminho absoluto local (sem `C:\Users\...`, sem `/home/<usuario>/...`, sem `/Users/<usuario>/...`).
+- [ ] Nenhum arquivo do projeto contém caminho absoluto local (sem `C:\Users\...`, sem `/home/exemplo/...`, sem `/Users/exemplo/...`).
 - [ ] Você consegue explicar, em uma frase, a diferença entre caminho relativo e caminho absoluto.
 - [ ] Você consegue listar, sem consultar, os cinco comandos de terminal usados neste capítulo.
 - [ ] O `docs/diario-tecnico.md` tem a entrada do C03.
