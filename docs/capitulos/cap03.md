@@ -126,7 +126,7 @@ A logo, referenciada a partir do HTML, fica em:
 ../assets/screenshots/logo-exemplo.png
 ```
 
-O Trecho A só funciona na máquina do autor, e só funciona enquanto a pasta `<usuario>\Documentos\stackovia` existir naquele caminho. Se você renomear uma pasta acima, quebra. Se outra pessoa clonar, nem chega a tentar. Se você abre em um Mac amanhã, esquece.
+O Trecho A só funciona na máquina do autor, e só funciona enquanto a pasta `exemplo\Documentos\stackovia` existir naquele caminho. Se você renomear uma pasta acima, quebra. Se outra pessoa clonar, nem chega a tentar. Se você abre em um Mac amanhã, esquece.
 
 O Trecho B funciona em qualquer máquina, em qualquer sistema operacional, dentro de qualquer pasta — desde que a estrutura interna do projeto seja respeitada. **Isso** é portabilidade. E é nisso que terminal e organização entram.
 
