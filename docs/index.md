@@ -32,6 +32,10 @@ features:
     details: "Working tree, staging e commit: histórico pequeno e revisável, sem perder o que funcionava."
     link: /capitulos/cap04
     linkText: "Ler capítulo →"
+  - title: "Cap. 05 — GitHub, README e Pull Request"
+    details: "Tirar o projeto da máquina: repositório remoto, branch com intenção e PR que o revisor consegue ler."
+    link: /capitulos/cap05
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -42,7 +46,7 @@ features:
 | Cap. 02 | Como a internet funciona na prática | ✅ Preview |
 | Cap. 03 | Terminal, pastas, arquivos e ambiente | ✅ Preview |
 | Cap. 04 | Git como memória do aprendizado | ✅ Preview |
-| Cap. 05 | GitHub, README e Pull Request | 🚧 Em produção |
+| Cap. 05 | Do projeto local para o GitHub: README, branch e Pull Request | ✅ Preview |
 | Cap. 06–13 | (em produção) | 🚧 Em produção |
 
 > **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.

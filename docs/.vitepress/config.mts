@@ -55,6 +55,10 @@ export default defineConfig({
             text: 'Cap. 04 — Git como memória do aprendizado',
             link: '/capitulos/cap04',
           },
+          {
+            text: 'Cap. 05 — GitHub, README e Pull Request',
+            link: '/capitulos/cap05',
+          },
         ],
       },
     ],
