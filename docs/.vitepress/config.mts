@@ -52,7 +52,8 @@ export default defineConfig({
             link: '/capitulos/cap03',
           },
           {
-            text: 'Cap. 04 — Git: versionar é diferente de salvar (em breve)',
+            text: 'Cap. 04 — Git como memória do aprendizado',
+            link: '/capitulos/cap04',
           },
         ],
       },
