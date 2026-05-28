@@ -28,8 +28,10 @@ features:
     details: "Cinco comandos essenciais, estrutura de projeto e portabilidade."
     link: /capitulos/cap03
     linkText: "Ler capítulo →"
-  - title: "Cap. 04 — Git: versionar é diferente de salvar"
-    details: "Em produção — disponível em breve. Sem link ativo ainda."
+  - title: "Cap. 04 — Git como memória do aprendizado"
+    details: "Working tree, staging e commit: histórico pequeno e revisável, sem perder o que funcionava."
+    link: /capitulos/cap04
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -39,7 +41,7 @@ features:
 | Cap. 01 | Entrada na Stackovia e setup da jornada | ✅ Preview |
 | Cap. 02 | Como a internet funciona na prática | ✅ Preview |
 | Cap. 03 | Terminal, pastas, arquivos e ambiente | ✅ Preview |
-| Cap. 04 | Git: versionar é diferente de salvar | 🚧 Em produção |
+| Cap. 04 | Git como memória do aprendizado | ✅ Preview |
 | Cap. 05 | GitHub, README e Pull Request | 🚧 Em produção |
 | Cap. 06–13 | (em produção) | 🚧 Em produção |
 

@@ -19,7 +19,7 @@ Da primeira linha de terminal ao primeiro capítulo publicado no GitHub.
 | [01](docs/capitulos/cap01.md) | Entrada na Stackovia e setup da jornada | ✅ Preview |
 | [02](docs/capitulos/cap02.md) | Como a internet funciona na prática | ✅ Preview |
 | [03](docs/capitulos/cap03.md) | Terminal, pastas, arquivos e ambiente | ✅ Preview |
-| 04 | Git: versionar é diferente de salvar | 🚧 Em produção |
+| [04](docs/capitulos/cap04.md) | Git como memória do aprendizado | ✅ Preview |
 | 05–13 | — | 🚧 Em produção |
 
 ## Sobre este volume
@@ -43,6 +43,6 @@ Este é o Volume 01 da [Stackovia Learning Series](https://mffdeo.github.io/stac
 ## Licença
 
 - **Conteúdo** (texto, diagramas, materiais didáticos): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **Código** (IntraStack, scripts, configs): [MIT](LICENSE-CODE).
+- **Código** (IntraStack, scripts, configs): [MIT](https://opensource.org/licenses/MIT).
 
 Autor: **Marcos Oliveira** ([@mffdeo](https://github.com/mffdeo)).
