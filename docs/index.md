@@ -60,6 +60,10 @@ features:
     details: "Revisão pré-publicação: segredos fora do Git, .env vs .env.example, input não confiável e um docs/risks.md honesto sobre os limites — sem prometer 'projeto seguro'."
     link: /capitulos/cap11
     linkText: "Ler capítulo →"
+  - title: "Cap. 12 — Publicação estática e checklist de portfólio"
+    details: "Publicar é tornar verificável, não só subir arquivos: caminhos relativos, verificar de fora (aba anônima, Network), evidência e um checklist reutilizável."
+    link: /capitulos/cap12
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -77,7 +81,8 @@ features:
 | Cap. 09 | HTTP, request/response e dados mockados | ✅ Preview |
 | Cap. 10 | Formulário, validação simples e erros comuns | ✅ Preview |
 | Cap. 11 | Segurança básica desde cedo: segredos, inputs e exposição pública | ✅ Preview |
-| Cap. 12–13 | (em produção) | 🚧 Em produção |
+| Cap. 12 | Publicação estática e checklist de portfólio | ✅ Preview |
+| Cap. 13 | (em produção) | 🚧 Em produção |
 
 > **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.
 > Para acompanhar o progresso, acesse o [repositório no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno).

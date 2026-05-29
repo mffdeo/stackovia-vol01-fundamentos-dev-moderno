@@ -27,7 +27,8 @@ Da primeira linha de terminal ao primeiro capítulo publicado no GitHub.
 | [09](docs/capitulos/cap09.md) | HTTP, request/response e dados mockados | ✅ Preview |
 | [10](docs/capitulos/cap10.md) | Formulário, validação simples e erros comuns | ✅ Preview |
 | [11](docs/capitulos/cap11.md) | Segurança básica desde cedo: segredos, inputs e exposição pública | ✅ Preview |
-| 12–13 | — | 🚧 Em produção |
+| [12](docs/capitulos/cap12.md) | Publicação estática e checklist de portfólio | ✅ Preview |
+| 13 | — | 🚧 Em produção |
 
 ## Sobre este volume
 

@@ -83,6 +83,10 @@ export default defineConfig({
             text: 'Cap. 11 — Segurança básica desde cedo',
             link: '/capitulos/cap11',
           },
+          {
+            text: 'Cap. 12 — Publicação estática e checklist de portfólio',
+            link: '/capitulos/cap12',
+          },
         ],
       },
     ],
