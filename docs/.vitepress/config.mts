@@ -67,6 +67,10 @@ export default defineConfig({
             text: 'Cap. 07 — CSS moderno e layout responsivo',
             link: '/capitulos/cap07',
           },
+          {
+            text: 'Cap. 08 — JavaScript básico aplicado ao IntraStack',
+            link: '/capitulos/cap08',
+          },
         ],
       },
     ],

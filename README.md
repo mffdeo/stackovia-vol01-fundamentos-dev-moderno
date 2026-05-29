@@ -23,7 +23,8 @@ Da primeira linha de terminal ao primeiro capítulo publicado no GitHub.
 | [05](docs/capitulos/cap05.md) | Do projeto local para o GitHub: README, branch e Pull Request | ✅ Preview |
 | [06](docs/capitulos/cap06.md) | HTML semântico para a primeira página | ✅ Preview |
 | [07](docs/capitulos/cap07.md) | CSS moderno e layout responsivo | ✅ Preview |
-| 08–13 | — | 🚧 Em produção |
+| [08](docs/capitulos/cap08.md) | JavaScript básico aplicado ao IntraStack | ✅ Preview |
+| 09–13 | — | 🚧 Em produção |
 
 ## Sobre este volume
 
