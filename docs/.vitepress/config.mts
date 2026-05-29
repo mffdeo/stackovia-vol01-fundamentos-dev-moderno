@@ -75,6 +75,10 @@ export default defineConfig({
             text: 'Cap. 09 — HTTP, request/response e dados mockados',
             link: '/capitulos/cap09',
           },
+          {
+            text: 'Cap. 10 — Formulário, validação simples e erros comuns',
+            link: '/capitulos/cap10',
+          },
         ],
       },
     ],

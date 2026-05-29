@@ -52,6 +52,10 @@ features:
     details: "Da lista vazia ao fetch honesto: request/response, resposta.ok, os três estados (carregando, sucesso, erro) e dados mockados sem fingir backend."
     link: /capitulos/cap09
     linkText: "Ler capítulo →"
+  - title: "Cap. 10 — Formulário, validação simples e erros comuns"
+    details: "Do formulário que mente ao feedback honesto: validação no cliente como orientação (não segurança), mensagens específicas e sucesso rotulado como simulação."
+    link: /capitulos/cap10
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -67,7 +71,8 @@ features:
 | Cap. 07 | CSS moderno e layout responsivo | ✅ Preview |
 | Cap. 08 | JavaScript básico aplicado ao IntraStack | ✅ Preview |
 | Cap. 09 | HTTP, request/response e dados mockados | ✅ Preview |
-| Cap. 10–13 | (em produção) | 🚧 Em produção |
+| Cap. 10 | Formulário, validação simples e erros comuns | ✅ Preview |
+| Cap. 11–13 | (em produção) | 🚧 Em produção |
 
 > **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.
 > Para acompanhar o progresso, acesse o [repositório no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno).
