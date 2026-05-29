@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Mestre Py",
+    "papel": "Mentor técnico",
+    "foco": "Revisar decisões, limites e evidências antes da publicação."
+  },
+  {
+    "nome": "Lia Front",
+    "papel": "Referência de interface",
+    "foco": "Ajudar com HTML semântico, responsividade e feedback visual."
+  },
+  {
+    "nome": "Noah Ops",
+    "papel": "Apoio de publicação",
+    "foco": "Conferir links, assets e checklist antes de chamar a entrega de pronta."
+  }
+]
+

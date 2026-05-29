@@ -21,7 +21,7 @@ Este volume cobre os fundamentos que qualquer desenvolvedor web moderno precisa 
 
 ## Como usar este material
 
-Cada capítulo é autossuficiente, mas foi projetado para ser lido em ordem. O projeto integrador — o **IntraStack básico** — cresce capítulo a capítulo.
+Cada capítulo é autossuficiente, mas foi projetado para ser lido em ordem. O projeto integrador — o **IntraStack Básico** — cresce capítulo a capítulo e está disponível como código de referência em [Projeto Integrador](/projeto-integrador).
 
 **Leia no ritmo que fizer sentido para você.** Há leitores que completam um capítulo em 2 horas; há leitores que levam uma semana porque param para criar cada artefato com cuidado. Ambos os caminhos são válidos.
 

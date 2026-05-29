@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>IntraStack Básico — Onboarding Stackovia</title>
+    <meta
+      name="description"
+      content="Portal estático fictício de onboarding interno da Stackovia, projeto de estudo do Volume 1."
+    >
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="IntraStack Básico — início">
+        <span class="brand-mark">IS</span>
+        <span>
+          <strong>IntraStack</strong>
+          <small>Estudo / Fundamentos</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Navegação principal">
+        <a href="index.html" aria-current="page">Início</a>
+        <a href="sobre.html">Equipe</a>
+        <a href="contato.html">Contato</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="titulo-home">
+        <div class="hero-copy">
+          <p class="eyebrow">Portal interno fictício</p>
+          <h1 id="titulo-home">Onboarding claro para quem está chegando na Stackovia.</h1>
+          <p>
+            Um projeto estático, versionado e documentado para consolidar os fundamentos
+            do Volume 1: HTML, CSS, JavaScript, dados mockados, formulário e publicação honesta.
+          </p>
+          <div class="hero-actions">
+            <a class="button" href="sobre.html">Ver equipe</a>
+            <a class="button secondary" href="contato.html">Pedir ajuda</a>
+          </div>
+        </div>
+        <aside class="sprint-card" aria-label="Card da sprint">
+          <p class="eyebrow">Card da sprint</p>
+          <h2>Primeira entrega verificável</h2>
+          <dl>
+            <div>
+              <dt>Prazo</dt>
+              <dd>Fechamento do V01</dd>
+            </div>
+            <div>
+              <dt>Pronto quando</dt>
+              <dd>Outra pessoa consegue baixar, rodar e validar.</dd>
+            </div>
+            <div>
+              <dt>Limite</dt>
+              <dd>Demo estática. Sem backend.</dd>
+            </div>
+          </dl>
+        </aside>
+      </section>
+
+      <section class="section" aria-labelledby="links-title">
+        <div class="section-heading">
+          <p class="eyebrow">Primeiros passos</p>
+          <h2 id="links-title">Links úteis do onboarding</h2>
+          <p>O botão abaixo usa JavaScript básico para alternar uma área da página.</p>
+        </div>
+        <button class="button" type="button" data-toggle-links aria-expanded="false">
+          Mostrar links úteis
+        </button>
+        <div id="links-uteis" class="utility-links is-hidden">
+          <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+            HTML na MDN
+          </a>
+          <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+            CSS na MDN
+          </a>
+          <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            JavaScript na MDN
+          </a>
+        </div>
+        <p id="status-links" class="status" role="status" aria-live="polite"></p>
+      </section>
+
+      <section class="section grid" aria-label="Resumo do projeto">
+        <article class="info-card">
+          <h2>O que funciona</h2>
+          <p>Layout responsivo, navegação, dados mockados via JSON e formulário com validação no cliente.</p>
+        </article>
+        <article class="info-card">
+          <h2>O que não promete</h2>
+          <p>Não há backend, banco, autenticação, SLA ou segurança completa. É estudo de fundamentos.</p>
+        </article>
+        <article class="info-card">
+          <h2>Como validar</h2>
+          <p>Sirva a pasta <code>src/</code>, abra no navegador, clique nos links e confira o DevTools.</p>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>IntraStack Básico — projeto fictício de estudo da Stackovia Learning Series.</p>
+    </footer>
+  </body>
+</html>
+

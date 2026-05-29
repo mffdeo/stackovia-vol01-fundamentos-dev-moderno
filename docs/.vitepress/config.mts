@@ -21,6 +21,7 @@ export default defineConfig({
     nav: [
       { text: 'Início', link: '/' },
       { text: 'Guia do Volume', link: '/guia-do-volume' },
+      { text: 'Projeto Integrador', link: '/projeto-integrador' },
       { text: 'Capítulos', link: '/capitulos/cap01' },
       {
         text: 'Hub da Série',
@@ -34,6 +35,7 @@ export default defineConfig({
         items: [
           { text: 'Início', link: '/' },
           { text: 'Guia do Volume', link: '/guia-do-volume' },
+          { text: 'Projeto Integrador', link: '/projeto-integrador' },
         ],
       },
       {

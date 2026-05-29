@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Content-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Em%20produ%C3%A7%C3%A3o-yellow)](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/)
+[![Status](https://img.shields.io/badge/Status-Preview%20completo-brightgreen)](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/)
 
 Da primeira linha de terminal ao primeiro capítulo publicado no GitHub.
 
@@ -38,7 +38,22 @@ Você vai acompanhar os primeiros dias de um estagiário na Stackovia — uma so
 
 ## Projeto integrador
 
-**IntraStack básico** — um portal interno construído do zero ao longo dos 13 capítulos. Começa como arquivos avulsos e termina como site estático publicado, com estrutura rastreável e portfólio documentado.
+**IntraStack Básico** — um portal interno construído do zero ao longo dos 13 capítulos. Começa como arquivos avulsos e termina como site estático publicado, com estrutura rastreável e portfólio documentado.
+
+Código de referência:
+
+- Pasta: [`projeto-integrador/stackovia-intrastack-basic`](projeto-integrador/stackovia-intrastack-basic)
+- Página de instruções: [Projeto Integrador](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/projeto-integrador)
+
+Para testar localmente:
+
+```bash
+git clone https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno.git
+cd stackovia-vol01-fundamentos-dev-moderno/projeto-integrador/stackovia-intrastack-basic/src
+python3 -m http.server 8000
+```
+
+Abra `http://localhost:8000` no navegador.
 
 ## Como usar
 

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Equipe — IntraStack Básico</title>
+    <meta name="description" content="Equipe fictícia carregada de dados mockados no IntraStack Básico.">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="IntraStack Básico — início">
+        <span class="brand-mark">IS</span>
+        <span>
+          <strong>IntraStack</strong>
+          <small>Estudo / Fundamentos</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Navegação principal">
+        <a href="index.html">Início</a>
+        <a href="sobre.html" aria-current="page">Equipe</a>
+        <a href="contato.html">Contato</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="page-header">
+        <p class="eyebrow">Dados mockados</p>
+        <h1>Equipe de apoio do onboarding</h1>
+        <p>
+          Esta lista vem de <code>data/equipe.json</code>. Ela simula dados de uma API,
+          mas não existe backend neste volume.
+        </p>
+      </section>
+
+      <section class="section" aria-labelledby="equipe-title">
+        <div class="section-heading">
+          <h2 id="equipe-title">Pessoas de referência</h2>
+          <p id="status-equipe" class="status" role="status" aria-live="polite">
+            Carregando equipe...
+          </p>
+        </div>
+        <div id="lista-equipe" class="team-grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Dados fictícios. Não representam pessoas reais.</p>
+    </footer>
+  </body>
+</html>
+

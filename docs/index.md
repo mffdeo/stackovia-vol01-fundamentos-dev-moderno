@@ -13,6 +13,9 @@ hero:
       text: Guia do Volume
       link: /guia-do-volume
     - theme: alt
+      text: Projeto Integrador
+      link: /projeto-integrador
+    - theme: alt
       text: Hub da Série
       link: https://mffdeo.github.io/stackovia-learning/
 features:
@@ -68,6 +71,10 @@ features:
     details: "Release, changelog, README final e post LinkedIn honesto: fechar o projeto com evidência, limite claro e ponte para o Volume 2."
     link: /capitulos/cap13
     linkText: "Ler capítulo →"
+  - title: "Projeto Integrador — IntraStack Básico"
+    details: "Código de referência baixável e testável localmente: HTML, CSS, JavaScript, dados mockados, runbook, riscos, changelog e smoke check."
+    link: /projeto-integrador
+    linkText: "Baixar e testar →"
 ---
 
 ## Status dos capítulos
@@ -88,7 +95,11 @@ features:
 | Cap. 12 | Publicação estática e checklist de portfólio | ✅ Preview |
 | Cap. 13 | Fechamento do Volume 1: release, LinkedIn e próximos passos | ✅ Preview |
 
-> **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.
+## Projeto integrador
+
+O **IntraStack Básico** está disponível para download e teste local em [Projeto Integrador](/projeto-integrador).
+
+> **Volume 01 em preview completo.** Os 13 capítulos e o projeto integrador de referência estão publicados.
 > Para acompanhar o progresso, acesse o [repositório no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno).
 
 ## Licença
