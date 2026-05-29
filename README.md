@@ -28,7 +28,7 @@ Da primeira linha de terminal ao primeiro capítulo publicado no GitHub.
 | [10](docs/capitulos/cap10.md) | Formulário, validação simples e erros comuns | ✅ Preview |
 | [11](docs/capitulos/cap11.md) | Segurança básica desde cedo: segredos, inputs e exposição pública | ✅ Preview |
 | [12](docs/capitulos/cap12.md) | Publicação estática e checklist de portfólio | ✅ Preview |
-| 13 | — | 🚧 Em produção |
+| [13](docs/capitulos/cap13.md) | Fechamento do Volume 1: release, LinkedIn e próximos passos | ✅ Preview |
 
 ## Sobre este volume
 

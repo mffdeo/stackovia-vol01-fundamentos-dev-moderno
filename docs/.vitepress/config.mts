@@ -87,6 +87,10 @@ export default defineConfig({
             text: 'Cap. 12 — Publicação estática e checklist de portfólio',
             link: '/capitulos/cap12',
           },
+          {
+            text: 'Cap. 13 — Fechamento do Volume 1',
+            link: '/capitulos/cap13',
+          },
         ],
       },
     ],

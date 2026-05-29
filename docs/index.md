@@ -64,6 +64,10 @@ features:
     details: "Publicar é tornar verificável, não só subir arquivos: caminhos relativos, verificar de fora (aba anônima, Network), evidência e um checklist reutilizável."
     link: /capitulos/cap12
     linkText: "Ler capítulo →"
+  - title: "Cap. 13 — Fechamento do Volume 1"
+    details: "Release, changelog, README final e post LinkedIn honesto: fechar o projeto com evidência, limite claro e ponte para o Volume 2."
+    link: /capitulos/cap13
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -82,7 +86,7 @@ features:
 | Cap. 10 | Formulário, validação simples e erros comuns | ✅ Preview |
 | Cap. 11 | Segurança básica desde cedo: segredos, inputs e exposição pública | ✅ Preview |
 | Cap. 12 | Publicação estática e checklist de portfólio | ✅ Preview |
-| Cap. 13 | (em produção) | 🚧 Em produção |
+| Cap. 13 | Fechamento do Volume 1: release, LinkedIn e próximos passos | ✅ Preview |
 
 > **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.
 > Para acompanhar o progresso, acesse o [repositório no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno).
