@@ -71,6 +71,10 @@ export default defineConfig({
             text: 'Cap. 08 — JavaScript básico aplicado ao IntraStack',
             link: '/capitulos/cap08',
           },
+          {
+            text: 'Cap. 09 — HTTP, request/response e dados mockados',
+            link: '/capitulos/cap09',
+          },
         ],
       },
     ],

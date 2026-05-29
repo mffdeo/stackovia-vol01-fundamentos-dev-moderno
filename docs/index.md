@@ -48,6 +48,10 @@ features:
     details: "Do clique sem efeito à interação que funciona: DOM, querySelector, evento e handler — e depurar o null no console."
     link: /capitulos/cap08
     linkText: "Ler capítulo →"
+  - title: "Cap. 09 — HTTP, request/response e dados mockados"
+    details: "Da lista vazia ao fetch honesto: request/response, resposta.ok, os três estados (carregando, sucesso, erro) e dados mockados sem fingir backend."
+    link: /capitulos/cap09
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -62,7 +66,8 @@ features:
 | Cap. 06 | HTML semântico para a primeira página | ✅ Preview |
 | Cap. 07 | CSS moderno e layout responsivo | ✅ Preview |
 | Cap. 08 | JavaScript básico aplicado ao IntraStack | ✅ Preview |
-| Cap. 09–13 | (em produção) | 🚧 Em produção |
+| Cap. 09 | HTTP, request/response e dados mockados | ✅ Preview |
+| Cap. 10–13 | (em produção) | 🚧 Em produção |
 
 > **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.
 > Para acompanhar o progresso, acesse o [repositório no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno).
