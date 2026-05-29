@@ -26,7 +26,8 @@ Da primeira linha de terminal ao primeiro capítulo publicado no GitHub.
 | [08](docs/capitulos/cap08.md) | JavaScript básico aplicado ao IntraStack | ✅ Preview |
 | [09](docs/capitulos/cap09.md) | HTTP, request/response e dados mockados | ✅ Preview |
 | [10](docs/capitulos/cap10.md) | Formulário, validação simples e erros comuns | ✅ Preview |
-| 11–13 | — | 🚧 Em produção |
+| [11](docs/capitulos/cap11.md) | Segurança básica desde cedo: segredos, inputs e exposição pública | ✅ Preview |
+| 12–13 | — | 🚧 Em produção |
 
 ## Sobre este volume
 

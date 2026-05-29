@@ -79,6 +79,10 @@ export default defineConfig({
             text: 'Cap. 10 — Formulário, validação simples e erros comuns',
             link: '/capitulos/cap10',
           },
+          {
+            text: 'Cap. 11 — Segurança básica desde cedo',
+            link: '/capitulos/cap11',
+          },
         ],
       },
     ],
