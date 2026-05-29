@@ -59,6 +59,10 @@ export default defineConfig({
             text: 'Cap. 05 — GitHub, README e Pull Request',
             link: '/capitulos/cap05',
           },
+          {
+            text: 'Cap. 06 — HTML semântico para a primeira página',
+            link: '/capitulos/cap06',
+          },
         ],
       },
     ],

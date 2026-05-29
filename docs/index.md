@@ -36,6 +36,10 @@ features:
     details: "Tirar o projeto da máquina: repositório remoto, branch com intenção e PR que o revisor consegue ler."
     link: /capitulos/cap05
     linkText: "Ler capítulo →"
+  - title: "Cap. 06 — HTML semântico para a primeira página"
+    details: "Estrutura antes de aparência: header, main, footer, headings em ordem e links que cumprem o que prometem."
+    link: /capitulos/cap06
+    linkText: "Ler capítulo →"
 ---
 
 ## Status dos capítulos
@@ -47,7 +51,8 @@ features:
 | Cap. 03 | Terminal, pastas, arquivos e ambiente | ✅ Preview |
 | Cap. 04 | Git como memória do aprendizado | ✅ Preview |
 | Cap. 05 | Do projeto local para o GitHub: README, branch e Pull Request | ✅ Preview |
-| Cap. 06–13 | (em produção) | 🚧 Em produção |
+| Cap. 06 | HTML semântico para a primeira página | ✅ Preview |
+| Cap. 07–13 | (em produção) | 🚧 Em produção |
 
 > **Publicação progressiva.** Este site cresce à medida que os capítulos passam pela revisão editorial.
 > Para acompanhar o progresso, acesse o [repositório no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno).
