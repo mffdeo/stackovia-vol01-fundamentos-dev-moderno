@@ -63,6 +63,10 @@ export default defineConfig({
             text: 'Cap. 06 — HTML semântico para a primeira página',
             link: '/capitulos/cap06',
           },
+          {
+            text: 'Cap. 07 — CSS moderno e layout responsivo',
+            link: '/capitulos/cap07',
+          },
         ],
       },
     ],
